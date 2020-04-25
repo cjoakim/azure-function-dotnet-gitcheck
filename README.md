@@ -6,7 +6,6 @@ Uses Azure Blob Storage to maintain the state of the application.
 ## Links
 
 - https://docs.microsoft.com/en-us/azure/azure-functions/functions-develop-vs-code?tabs=csharp
-- 
 
 ## GitHub Endpoint
 
